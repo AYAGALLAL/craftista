@@ -1,4 +1,4 @@
-How to build Frontend App 
+How to build Frontend App :
 
   * Node version: latest (e.g. 21.x.x)
   * Build Command : npm install 
